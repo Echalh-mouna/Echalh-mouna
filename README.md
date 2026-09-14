@@ -130,13 +130,7 @@ Hybrid IDS combining signature-based detection with machine-learning techniques.
 
 `Python` `Machine Learning` `IDS` `MITRE ATT&CK`
 
----
 
-### 🧩 Offline Reinforcement Learning
-
-Academic project exploring offline reinforcement learning and trajectory reanalysis.
-
-`Python` `Reinforcement Learning` `IQL` `D4RL`
 
 ---
 
@@ -160,7 +154,7 @@ Academic project exploring offline reinforcement learning and trajectory reanaly
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EchalhMouna&show_icons=true&hide_border=true&bg_color=0D0814&title_color=A78BFA&icon_color=8B5CF6&text_color=F5F3FF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Echalh-mouna&show_icons=true&hide_border=true&bg_color=0D0814&title_color=A78BFA&icon_color=8B5CF6&text_color=F5F3FF&rank_icon=github" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchalhMouna&layout=compact&hide_border=true&bg_color=0D0814&title_color=A78BFA&text_color=F5F3FF" />
 
