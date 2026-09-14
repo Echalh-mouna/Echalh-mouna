@@ -1,26 +1,23 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2E1065,50:6D28D9,100:A78BFA&amp;height=200&amp;section=header&amp;text=Mouna%20Echalh&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Cybersecurity%20Engineering%20%7C%20AI%20%26%20Security&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A78BFA&height=200&section=header&text=Mouna%20Echalh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Cybersecurity+Engineering+Student+%F0%9F%9B%A1%EF%B8%8F;AI+%C3%97+Cybersecurity+%F0%9F%A4%96;Threat+Intelligence+%26+Security+Automation;Building+secure+%26+intelligent+systems+%F0%9F%94%90" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;AI+%C3%97+Cybersecurity;Threat+Intelligence+%26+Security+Automation;Building+secure+%26+intelligent+systems" alt="Typing SVG" />
 
 <br><br>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+<a href="https://www.linkedin.com/in/echalh-mouna-995b70315/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+<a href="mailto:echalhmouna27@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<a href="https://github.com/EchalhMouna">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -43,11 +40,11 @@ My main areas of interest include **Threat Intelligence, Vulnerability Managemen
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Threat%20Intelligence-4C1D95?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Vulnerability%20Management-5B21B6?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Monitoring-6D28D9?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Phishing%20Detection-7C3AED?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Security%20Automation-8B5CF6?style=for-the-badge&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-4C1D95?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Management-5B21B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Monitoring-6D28D9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phishing%20Detection-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Automation-8B5CF6?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -57,39 +54,43 @@ My main areas of interest include **Threat Intelligence, Vulnerability Managemen
 
 ### 💻 Programming
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 
-</p>
+<br><br>
 
-### 🛡️ Security &amp; Systems
+<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<p align="center">
+</div>
+
+### 🛡️ Security & Systems
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Kali%20Linux-4C1D95?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-5B21B6?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK%20Stack-6D28D9?style=for-the-badge&amp;logo=elastic&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Kibana-7C3AED?style=for-the-badge&amp;logo=kibana&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-8B5CF6?style=for-the-badge&amp;logo=owasp&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-4C1D95?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-5B21B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK%20Stack-6D28D9?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-7C3AED?style=for-the-badge&logo=kibana&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-8B5CF6?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-</p>
+</div>
 
-### 🤖 AI &amp; Data
+### 🤖 AI & Data
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-6D28D9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
@@ -99,9 +100,10 @@ My main areas of interest include **Threat Intelligence, Vulnerability Managemen
 
 Security automation platform designed for CERT workflows.
 
-- Multi-source **Cyber Threat Intelligence**
-- Vulnerability monitoring using **NVD, CERT-FR and CISA KEV**
-- LLM-assisted security alert generation
+- Multi-source Cyber Threat Intelligence
+- Vulnerability monitoring
+- NVD, CERT-FR and CISA KEV integration
+- LLM-assisted security analysis
 - Vulnerability remediation tracking
 - Local LLM integration
 
@@ -109,11 +111,11 @@ Security automation platform designed for CERT workflows.
 
 ---
 
-### 🎣 Phishing &amp; Malicious URL Detection
+### 🎣 Phishing & Malicious URL Detection
 
 Machine-learning based solution for detecting malicious URLs and phishing threats.
 
-- CTI data collection
+- Cyber Threat Intelligence data collection
 - Machine Learning classification
 - Automated email alerts
 - Security monitoring dashboard
@@ -126,7 +128,7 @@ Machine-learning based solution for detecting malicious URLs and phishing threat
 
 Hybrid IDS combining signature-based detection with machine-learning techniques.
 
-`Python` `Machine Learning` `IDS` `MITRE ATT&amp;CK`
+`Python` `Machine Learning` `IDS` `MITRE ATT&CK`
 
 ---
 
@@ -147,7 +149,7 @@ Academic project exploring offline reinforcement learning and trajectory reanaly
 | Threat Intelligence | LLMs | Linux |
 | Vulnerability Management | AI Agents | Docker |
 | Security Monitoring | Machine Learning | Networking |
-| Intrusion Detection | Intelligent Automation | DevSecOps |
+| Intrusion Detection | AI Automation | DevSecOps |
 | Security Analysis | AI for Security | Secure Development |
 
 </div>
@@ -158,13 +160,13 @@ Academic project exploring offline reinforcement learning and trajectory reanaly
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0814&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=F5F3FF&amp;rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EchalhMouna&show_icons=true&hide_border=true&bg_color=0D0814&title_color=A78BFA&icon_color=8B5CF6&text_color=F5F3FF&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D0814&amp;title_color=A78BFA&amp;text_color=F5F3FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchalhMouna&layout=compact&hide_border=true&bg_color=0D0814&title_color=A78BFA&text_color=F5F3FF" />
 
 <br><br>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&amp;hide_border=true&amp;background=0D0814&amp;ring=8B5CF6&amp;fire=C084FC&amp;currStreakLabel=A78BFA&amp;sideLabels=A78BFA&amp;dates=9F8EAF&amp;currStreakNum=F5F3FF&amp;sideNums=F5F3FF" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=EchalhMouna&hide_border=true&background=0D0814&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9F8EAF&currStreakNum=F5F3FF&sideNums=F5F3FF" />
 
 </div>
 
@@ -188,21 +190,24 @@ It is about **understanding systems, anticipating threats and building better so
 
 <div align="center">
 
-### Building secure systems. Exploring intelligent security. 💜
+**Building secure systems. Exploring intelligent security.**
 
-<br>
+<br><br>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<a href="https://www.linkedin.com/in/echalh-mouna-995b70315/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<a href="mailto:echalhmouna27@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EchalhMouna">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:A78BFA,50:7C3AED,100:2E1065&amp;height=100&amp;section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:2E1065&height=100&section=footer" />
 
 </div>
-
