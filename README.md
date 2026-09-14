@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/EchalhMouna">
+<a href="https://github.com/Echalh-mouna">
 <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
